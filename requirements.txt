@@ -2,3 +2,4 @@ crewai==0.80.0
 crewai_tools==0.14.0
 python-dotenv==1.0.1
 langtrace_python_sdk==3.3.9
+google-generativeai==0.8.3
