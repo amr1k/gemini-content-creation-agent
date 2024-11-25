@@ -1,6 +1,4 @@
-google-generativeai==0.8.3
 crewai==0.80.0
 crewai_tools==0.14.0
 python-dotenv==1.0.1
-langchain_google_genai
-langtrace_python_sdk
+langtrace_python_sdk==3.3.9
