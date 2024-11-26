@@ -2,6 +2,9 @@
 
 This notebook demonstrates an automated content creation workflow using CrewAI, leveraging Gemini and several custom tools.  The workflow orchestrates a team of AI agents to monitor financial news, analyze market data, generate content, and perform quality assurance.
 
+![alt text](./images/architecture.png?raw=true)
+
+
 # API Keys
 This project requires the following API keys:
 
